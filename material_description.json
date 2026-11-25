@@ -1,0 +1,555 @@
+{
+    "report_type": "Detailed Material Description",
+    "material_id": "mp-19017",
+    "sections": {
+        "1_overview": {
+            "title": "Material Overview",
+            "material_id": "mp-19017",
+            "formula": "LiFePO4",
+            "description": "LiFePO4 is recorded in the Materials Project database under material ID mp-19017.",
+            "source": "Materials Project"
+        },
+        "2_chemical_composition": {
+            "title": "Chemical Composition",
+            "formula": "LiFePO4",
+            "elements": [
+                "Fe",
+                "Li",
+                "O",
+                "P"
+            ],
+            "atomic_composition": {
+                "Li": 4.0,
+                "Fe": 4.0,
+                "P": 4.0,
+                "O": 16.0
+            },
+            "description": "The material contains the elements listed above. The atomic composition represents the composition reported in the selected Materials Project record."
+        },
+        "3_crystal_structure": {
+            "title": "Crystal Structure",
+            "crystal_system": "Orthorhombic",
+            "space_group": "Pnma",
+            "space_group_number": 62,
+            "lattice_parameters": {
+                "a_angstrom": 10.23619605,
+                "b_angstrom": 5.970755100000077,
+                "c_angstrom": 4.654917190000101,
+                "alpha_degrees": 90.00002115162388,
+                "beta_degrees": 90.0,
+                "gamma_degrees": 90.0
+            },
+            "atomic_structure": {
+                "atomic_species": [
+                    "Li",
+                    "Fe",
+                    "P",
+                    "O"
+                ],
+                "number_of_atoms": 28,
+                "atomic_positions": [
+                    {
+                        "element": "Li",
+                        "fractional_coordinates": [
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "cartesian_coordinates": [
+                            0.0,
+                            0.0,
+                            0.0
+                        ]
+                    },
+                    {
+                        "element": "Li",
+                        "fractional_coordinates": [
+                            0.5,
+                            0.5,
+                            0.5
+                        ],
+                        "cartesian_coordinates": [
+                            5.118098025,
+                            2.9853770649999998,
+                            2.3274581149999998
+                        ]
+                    },
+                    {
+                        "element": "Li",
+                        "fractional_coordinates": [
+                            0.5,
+                            0.0,
+                            0.5
+                        ],
+                        "cartesian_coordinates": [
+                            5.118098025,
+                            -4.85e-07,
+                            2.327458595
+                        ]
+                    },
+                    {
+                        "element": "Li",
+                        "fractional_coordinates": [
+                            0.0,
+                            0.5,
+                            0.0
+                        ],
+                        "cartesian_coordinates": [
+                            0.0,
+                            2.98537755,
+                            -4.8e-07
+                        ]
+                    },
+                    {
+                        "element": "Fe",
+                        "fractional_coordinates": [
+                            0.78115127,
+                            0.25,
+                            0.52986573
+                        ],
+                        "cartesian_coordinates": [
+                            7.996017544426484,
+                            1.4926882610302419,
+                            2.466480854968899
+                        ]
+                    },
+                    {
+                        "element": "Fe",
+                        "fractional_coordinates": [
+                            0.71884873,
+                            0.75,
+                            0.02986773
+                        ],
+                        "cartesian_coordinates": [
+                            7.358276530573517,
+                            4.478066296028302,
+                            0.1390310898032787
+                        ]
+                    },
+                    {
+                        "element": "Fe",
+                        "fractional_coordinates": [
+                            0.28115127,
+                            0.25,
+                            0.97013327
+                        ],
+                        "cartesian_coordinates": [
+                            2.8779195194264835,
+                            1.4926878339707281,
+                            4.515889795113911
+                        ]
+                    },
+                    {
+                        "element": "Fe",
+                        "fractional_coordinates": [
+                            0.21884873,
+                            0.75,
+                            0.47013327
+                        ],
+                        "cartesian_coordinates": [
+                            2.2401785055735166,
+                            4.478065868970728,
+                            2.188430720113911
+                        ]
+                    },
+                    {
+                        "element": "P",
+                        "fractional_coordinates": [
+                            0.0938663,
+                            0.25,
+                            0.41862257
+                        ],
+                        "cartesian_coordinates": [
+                            0.960833849288115,
+                            1.492688368936107,
+                            1.9486531572149783
+                        ]
+                    },
+                    {
+                        "element": "P",
+                        "fractional_coordinates": [
+                            0.4061337,
+                            0.75,
+                            0.91862357
+                        ],
+                        "cartesian_coordinates": [
+                            4.157264175711885,
+                            4.478065433935138,
+                            4.276115927132168
+                        ]
+                    },
+                    {
+                        "element": "P",
+                        "fractional_coordinates": [
+                            0.5938663,
+                            0.25,
+                            0.08137543
+                        ],
+                        "cartesian_coordinates": [
+                            6.078931874288115,
+                            1.4926886960658328,
+                            0.3787956479506417
+                        ]
+                    },
+                    {
+                        "element": "P",
+                        "fractional_coordinates": [
+                            0.9061337,
+                            0.75,
+                            0.58137643
+                        ],
+                        "cartesian_coordinates": [
+                            9.275362200711886,
+                            4.4780657610648635,
+                            2.706258417867832
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.09423067,
+                            0.25,
+                            0.74478656
+                        ],
+                        "cartesian_coordinates": [
+                            0.9645636120428536,
+                            1.4926880525570367,
+                            3.4669195210249666
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.83415452,
+                            0.54555803,
+                            0.71373534
+                        ],
+                        "cartesian_coordinates": [
+                            8.538569202713646,
+                            3.2573926976451735,
+                            3.3223783795407864
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.83415452,
+                            0.95444297,
+                            0.71373534
+                        ],
+                        "cartesian_coordinates": [
+                            8.538569202713646,
+                            5.698744538463368,
+                            3.3223779870112438
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.90577033,
+                            0.75,
+                            0.25521444
+                        ],
+                        "cartesian_coordinates": [
+                            9.271642674153195,
+                            4.478066077441993,
+                            1.1880013638922235
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.04430856,
+                            0.75,
+                            0.70986445
+                        ],
+                        "cartesian_coordinates": [
+                            0.453551106853188,
+                            4.4780656364314835,
+                            3.304359510874895
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.40576933,
+                            0.75,
+                            0.24478556
+                        ],
+                        "cartesian_coordinates": [
+                            4.153534412957146,
+                            4.478066087558007,
+                            1.1394557911077763
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.16584548,
+                            0.04555803,
+                            0.28626566
+                        ],
+                        "cartesian_coordinates": [
+                            1.6976268472863538,
+                            0.2720155622907628,
+                            1.3325428979049865
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.66584548,
+                            0.45444197,
+                            0.21373434
+                        ],
+                        "cartesian_coordinates": [
+                            6.815724872286354,
+                            2.713361502709237,
+                            0.9949152170950133
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.33415452,
+                            0.54555803,
+                            0.78626566
+                        ],
+                        "cartesian_coordinates": [
+                            3.420471177713646,
+                            3.2573926272907627,
+                            3.6600010129049867
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.33415452,
+                            0.95444297,
+                            0.78626566
+                        ],
+                        "cartesian_coordinates": [
+                            3.420471177713646,
+                            5.698744468108957,
+                            3.660000620375444
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.95569144,
+                            0.25,
+                            0.29013655
+                        ],
+                        "cartesian_coordinates": [
+                            9.782644943146812,
+                            1.4926884935675464,
+                            1.3505613740422944
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.45569144,
+                            0.25,
+                            0.20986345
+                        ],
+                        "cartesian_coordinates": [
+                            4.664546918146812,
+                            1.4926885714324534,
+                            0.9768967409577055
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.54430856,
+                            0.75,
+                            0.79013755
+                        ],
+                        "cartesian_coordinates": [
+                            5.571649131853189,
+                            4.478065558566577,
+                            3.678024143959484
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.59423067,
+                            0.25,
+                            0.75521544
+                        ],
+                        "cartesian_coordinates": [
+                            6.082661637042853,
+                            1.4926880424410232,
+                            3.5154650938094134
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.66584548,
+                            0.04555803,
+                            0.21373434
+                        ],
+                        "cartesian_coordinates": [
+                            6.815724872286354,
+                            0.27201563264614315,
+                            0.9949156096235957
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.16584548,
+                            0.45444197,
+                            0.28626566
+                        ],
+                        "cartesian_coordinates": [
+                            1.6976268472863538,
+                            2.7133614323538566,
+                            1.3325425053764042
+                        ]
+                    }
+                ]
+            },
+            "source": "Materials Project"
+        },
+        "4_physical_properties": {
+            "title": "Physical Properties",
+            "density_g_per_cm3": 3.6831458081236113,
+            "volume_angstrom3": 284.4983898633247,
+            "number_of_atomic_sites": 28,
+            "description": "These are the physical properties available in the selected Materials Project record."
+        },
+        "5_electronic_properties": {
+            "title": "Electronic Properties",
+            "band_gap_eV": 3.9223999999999997,
+            "is_metal": null,
+            "description": "Electronic properties are reported from the selected Materials Project record. A missing value means that the property was not available in the retrieved profile."
+        },
+        "6_stability": {
+            "title": "Stability",
+            "is_stable": true,
+            "formation_energy_per_atom_eV": -2.4798960147108837,
+            "energy_above_hull_eV_per_atom": 0.0,
+            "description": "Stability information is based on the calculated stability fields in the Materials Project record. It should not be interpreted as a direct measurement of long-term battery-cycle stability."
+        },
+        "7_battery_applications": {
+            "title": "Battery Applications",
+            "status": "Battery insertion information retrieved successfully.",
+            "total_matching_records": 1,
+            "records": [
+                {
+                    "battery_formula": "Li0-1FePO4",
+                    "working_ion": "Li",
+                    "average_voltage_V": 3.499170160833334,
+                    "gravimetric_capacity_mAh_g": 169.89052558677983,
+                    "volumetric_capacity_mAh_cm3": 589.6723353614005,
+                    "gravimetric_energy_Wh_kg": 594.4758577415521,
+                    "volumetric_energy_Wh_L": 2063.3638405655197,
+                    "charge_formula": "FePO4",
+                    "discharge_formula": "LiFePO4",
+                    "number_of_steps": 1,
+                    "selected_material_role": "discharge",
+                    "voltage_steps": [
+                        {
+                            "charge_formula": "FePO4",
+                            "discharge_formula": "LiFePO4",
+                            "average_voltage_V": 3.499170160833334,
+                            "gravimetric_capacity_mAh_g": 169.89052558677983,
+                            "volumetric_capacity_mAh_cm3": 589.6723353614005,
+                            "gravimetric_energy_Wh_kg": 594.4758577415521,
+                            "volumetric_energy_Wh_L": 2063.3638405655197,
+                            "volume_change": 0.06444511702724401
+                        }
+                    ]
+                }
+            ]
+        },
+        "8_working_mechanism": {
+            "status": "insufficient_evidence",
+            "description": [],
+            "message": "No relevant mechanism statements were found in the available abstracts."
+        },
+        "9_advantages": {
+            "status": "evidence_found",
+            "description": [
+                {
+                    "statement": "Both LiFePO4 and LiFePO4/graphene composite demonstrated stable performance over 100 cycles.",
+                    "paper_title": "Preparation of LiFePO4 rods, LiFePO4/graphene composite and their electrochemical performances",
+                    "year": 2011,
+                    "doi": "10.1179/175355511x13110717549279",
+                    "doi_url": "https://doi.org/10.1179/175355511x13110717549279",
+                    "evidence_source": "abstract",
+                    "scientific_claims_verified": false
+                },
+                {
+                    "statement": "Compared with pure LiFePO4, the specific capacity was improved extensively in the LiFePO4/graphene composite.",
+                    "paper_title": "Preparation of LiFePO4 rods, LiFePO4/graphene composite and their electrochemical performances",
+                    "year": 2011,
+                    "doi": "10.1179/175355511x13110717549279",
+                    "doi_url": "https://doi.org/10.1179/175355511x13110717549279",
+                    "evidence_source": "abstract",
+                    "scientific_claims_verified": false
+                }
+            ],
+            "message": "Potential advantages reported in retrieved abstracts."
+        },
+        "10_limitations": {
+            "status": "insufficient_evidence",
+            "description": [],
+            "message": "The available abstracts do not provide sufficient evidence about limitations."
+        },
+        "11_research_references": {
+            "title": "Research References",
+            "status": "Research references retrieved.",
+            "papers": [
+                {
+                    "abstract": "Rod-like LiFePO4 particles were prepared via solvothermal method using a mixed solution of isopropanol and deionised water as solvent with sucrose and nitrilotriacetic acid as additives. The effects of solvents and additives on the microstructure, chemical composition and morphology of the obtained products were investigated by powder X-ray diffraction, scanning electron microscopy and energy dispersive spectrometer. Results indicated that nitrilotriacetic acid made an important contribution to the rod-like morphology. The obtained LiFePO4 particles were further dispersed in graphene oxide sol to prepare the LiFePO4/graphene composite, followed by heat treating in Ar/H2 atmosphere. The electrochemical properties of LiFePO4 and LiFePO4/graphene composite as cathode in lithium ion cells were tested via galvanostatic charge/discharge cycling. Both LiFePO4 and LiFePO4/graphene composite demonstrated stable performance over 100 cycles. Compared with pure LiFePO4, the specific capacity was improved extensively in the LiFePO4/graphene composite.",
+                    "abstract_available": true,
+                    "title": "Preparation of LiFePO4 rods, LiFePO4/graphene composite and their electrochemical performances",
+                    "authors": [
+                        "Zhao"
+                    ],
+                    "year": 2011,
+                    "journal": "Materials Technology: Advanced Performance Materials",
+                    "publisher": "Maney Publishing",
+                    "type": "journal-article",
+                    "doi": "10.1179/175355511x13110717549279",
+                    "url": "https://doi.org/10.1179/175355511x13110717549279",
+                    "source": "Crossref",
+                    "material_formula": "LiFePO4",
+                    "formula_found_in_title": true,
+                    "scientific_claims_verified": false,
+                    "abstract_source": "OpenAlex"
+                },
+                {
+                    "abstract": null,
+                    "abstract_available": false,
+                    "title": "Application of quaternary polymer electrolyte based on ionic liquid in LiFePO4/Li, Li4Ti5O12/Li and LiFePO4/Li4Ti5O12 batteries",
+                    "authors": [
+                        "Agnieszka Swiderska-Mocek"
+                    ],
+                    "year": 2014,
+                    "journal": "Electrochimica Acta",
+                    "publisher": "Elsevier BV",
+                    "type": "journal-article",
+                    "doi": "10.1016/j.electacta.2014.07.042",
+                    "url": "https://doi.org/10.1016/j.electacta.2014.07.042",
+                    "source": "Crossref",
+                    "material_formula": "LiFePO4",
+                    "formula_found_in_title": true,
+                    "scientific_claims_verified": false,
+                    "abstract_source": null
+                }
+            ]
+        }
+    },
+    "data_sources": {
+        "material_properties": "Materials Project",
+        "battery_information": "Materials Project Insertion Electrodes",
+        "literature": "Research literature service"
+    }
+}

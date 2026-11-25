@@ -1,0 +1,998 @@
+{
+    "report_type": "Detailed Material Description",
+    "material_id": "mp-766488",
+    "sections": {
+        "1_overview": {
+            "title": "Material Overview",
+            "material_id": "mp-766488",
+            "formula": "Li3Mn3(BO3)4",
+            "description": "Li3Mn3(BO3)4 is recorded in the Materials Project database under material ID mp-766488.",
+            "source": "Materials Project"
+        },
+        "2_chemical_composition": {
+            "title": "Chemical Composition",
+            "formula": "Li3Mn3(BO3)4",
+            "elements": [
+                "B",
+                "Li",
+                "Mn",
+                "O"
+            ],
+            "atomic_composition": {
+                "Li": 6.0,
+                "Mn": 6.0,
+                "B": 8.0,
+                "O": 24.0
+            },
+            "description": "The material contains the elements listed above. The atomic composition represents the composition reported in the selected Materials Project record."
+        },
+        "3_crystal_structure": {
+            "title": "Crystal Structure",
+            "crystal_system": "Monoclinic",
+            "space_group": "Pc",
+            "space_group_number": 7,
+            "lattice_parameters": {
+                "a_angstrom": 9.077719,
+                "b_angstrom": 5.346526,
+                "c_angstrom": 10.79983997388526,
+                "alpha_degrees": 62.83830848277011,
+                "beta_degrees": 90.0,
+                "gamma_degrees": 90.0
+            },
+            "lattice_description": "The reported lattice parameters are a_angstrom = 9.0777 Å, b_angstrom = 5.3465 Å, c_angstrom = 10.7998 Å, alpha_degrees = 62.8383 °, beta_degrees = 90.0000 °, gamma_degrees = 90.0000 °.",
+            "atomic_structure": {
+                "atomic_species": [
+                    "Li",
+                    "Mn",
+                    "B",
+                    "O"
+                ],
+                "number_of_atoms": 44,
+                "atomic_positions": [
+                    {
+                        "element": "Li",
+                        "fractional_coordinates": [
+                            0.235126,
+                            0.514552,
+                            0.338298
+                        ],
+                        "cartesian_coordinates": [
+                            2.134407757594,
+                            4.41892925233,
+                            3.250655752194
+                        ]
+                    },
+                    {
+                        "element": "Li",
+                        "fractional_coordinates": [
+                            0.906191,
+                            0.445008,
+                            0.371173
+                        ],
+                        "cartesian_coordinates": [
+                            8.226147258329,
+                            4.209189491061,
+                            3.5665467945689997
+                        ]
+                    },
+                    {
+                        "element": "Li",
+                        "fractional_coordinates": [
+                            0.428608,
+                            0.53947,
+                            0.124183
+                        ],
+                        "cartesian_coordinates": [
+                            3.890782985152,
+                            3.496532564683,
+                            1.193256192099
+                        ]
+                    },
+                    {
+                        "element": "Li",
+                        "fractional_coordinates": [
+                            0.764874,
+                            0.514552,
+                            0.838298
+                        ],
+                        "cartesian_coordinates": [
+                            6.943311242406001,
+                            6.88400975233,
+                            8.055082252194
+                        ]
+                    },
+                    {
+                        "element": "Li",
+                        "fractional_coordinates": [
+                            0.093809,
+                            0.445008,
+                            0.871173
+                        ],
+                        "cartesian_coordinates": [
+                            0.851571741671,
+                            6.674269991060999,
+                            8.370973294569
+                        ]
+                    },
+                    {
+                        "element": "Li",
+                        "fractional_coordinates": [
+                            0.571392,
+                            0.53947,
+                            0.624183
+                        ],
+                        "cartesian_coordinates": [
+                            5.186936014848,
+                            5.961613064683,
+                            5.9976826920990005
+                        ]
+                    },
+                    {
+                        "element": "Mn",
+                        "fractional_coordinates": [
+                            0.577872,
+                            0.987814,
+                            0.875159
+                        ],
+                        "cartesian_coordinates": [
+                            5.245759633968,
+                            9.596048004762999,
+                            8.409274182627
+                        ]
+                    },
+                    {
+                        "element": "Mn",
+                        "fractional_coordinates": [
+                            0.243363,
+                            0.943567,
+                            0.882538
+                        ],
+                        "cartesian_coordinates": [
+                            2.209180928997,
+                            9.39585992686,
+                            8.480177908914
+                        ]
+                    },
+                    {
+                        "element": "Mn",
+                        "fractional_coordinates": [
+                            0.052247,
+                            0.013975,
+                            0.6227
+                        ],
+                        "cartesian_coordinates": [
+                            0.474283584593,
+                            3.14472895555,
+                            5.983432763100001
+                        ]
+                    },
+                    {
+                        "element": "Mn",
+                        "fractional_coordinates": [
+                            0.422128,
+                            0.987814,
+                            0.375159
+                        ],
+                        "cartesian_coordinates": [
+                            3.831959366032,
+                            7.1309675047629995,
+                            3.604847682627
+                        ]
+                    },
+                    {
+                        "element": "Mn",
+                        "fractional_coordinates": [
+                            0.756637,
+                            0.943567,
+                            0.382538
+                        ],
+                        "cartesian_coordinates": [
+                            6.868538071003,
+                            6.93077942686,
+                            3.675751408914
+                        ]
+                    },
+                    {
+                        "element": "Mn",
+                        "fractional_coordinates": [
+                            0.947753,
+                            0.013975,
+                            0.1227
+                        ],
+                        "cartesian_coordinates": [
+                            8.603435415407,
+                            0.67964845555,
+                            1.1790062631
+                        ]
+                    },
+                    {
+                        "element": "B",
+                        "fractional_coordinates": [
+                            0.573659,
+                            0.446491,
+                            0.379849
+                        ],
+                        "cartesian_coordinates": [
+                            5.207515203821,
+                            4.259892465955,
+                            3.649913203197
+                        ]
+                    },
+                    {
+                        "element": "B",
+                        "fractional_coordinates": [
+                            0.903816,
+                            0.96139,
+                            0.873131
+                        ],
+                        "cartesian_coordinates": [
+                            8.204587675704,
+                            9.444773035231,
+                            8.389787428743
+                        ]
+                    },
+                    {
+                        "element": "B",
+                        "fractional_coordinates": [
+                            0.066654,
+                            0.560488,
+                            0.10665
+                        ],
+                        "cartesian_coordinates": [
+                            0.605066282226,
+                            3.522465335338,
+                            1.02478417245
+                        ]
+                    },
+                    {
+                        "element": "B",
+                        "fractional_coordinates": [
+                            0.413036,
+                            0.019343,
+                            0.644126
+                        ],
+                        "cartesian_coordinates": [
+                            3.749424744884,
+                            3.279062736704,
+                            6.1893120474779995
+                        ]
+                    },
+                    {
+                        "element": "B",
+                        "fractional_coordinates": [
+                            0.096184,
+                            0.96139,
+                            0.373131
+                        ],
+                        "cartesian_coordinates": [
+                            0.873131324296,
+                            6.979692535230999,
+                            3.585360928743
+                        ]
+                    },
+                    {
+                        "element": "B",
+                        "fractional_coordinates": [
+                            0.426341,
+                            0.446491,
+                            0.879849
+                        ],
+                        "cartesian_coordinates": [
+                            3.870203796179,
+                            6.724972965955001,
+                            8.454339703197
+                        ]
+                    },
+                    {
+                        "element": "B",
+                        "fractional_coordinates": [
+                            0.586964,
+                            0.019343,
+                            0.144126
+                        ],
+                        "cartesian_coordinates": [
+                            5.328294255116001,
+                            0.8139822367039999,
+                            1.384885547478
+                        ]
+                    },
+                    {
+                        "element": "B",
+                        "fractional_coordinates": [
+                            0.933346,
+                            0.560488,
+                            0.60665
+                        ],
+                        "cartesian_coordinates": [
+                            8.472652717774,
+                            5.987545835338,
+                            5.82921067245
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.571973,
+                            0.866434,
+                            0.071085
+                        ],
+                        "cartesian_coordinates": [
+                            5.192210169587,
+                            4.982872402969,
+                            0.6830453155049999
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.931305,
+                            0.332695,
+                            0.582118
+                        ],
+                        "cartesian_coordinates": [
+                            8.454125093295001,
+                            4.648697928568,
+                            5.593486290654
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.193135,
+                            0.72947,
+                            0.07981
+                        ],
+                        "cartesian_coordinates": [
+                            1.753225259065,
+                            4.2936064706299994,
+                            0.76688255793
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.535727,
+                            0.122769,
+                            0.681431
+                        ],
+                        "cartesian_coordinates": [
+                            4.8631791667129995,
+                            4.015952190885001,
+                            6.547770308643
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.272481,
+                            0.062992,
+                            0.684483
+                        ],
+                        "cartesian_coordinates": [
+                            2.473505950839,
+                            3.7113997575549997,
+                            6.577096527998999
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.942799,
+                            0.627324,
+                            0.159518
+                        ],
+                        "cartesian_coordinates": [
+                            8.558464395481,
+                            4.140453498822,
+                            1.532785012854
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.435233,
+                            0.384982,
+                            0.344051
+                        ],
+                        "cartesian_coordinates": [
+                            3.950922873527,
+                            3.754543094743,
+                            3.3059354835029997
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.698714,
+                            0.303129,
+                            0.38374
+                        ],
+                        "cartesian_coordinates": [
+                            6.342729353366,
+                            3.512587061994,
+                            3.68730125022
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.778355,
+                            0.840681,
+                            0.862553
+                        ],
+                        "cartesian_coordinates": [
+                            7.065687972245001,
+                            8.747247985239,
+                            8.288144981709
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.036151,
+                            0.877293,
+                            0.830819
+                        ],
+                        "cartesian_coordinates": [
+                            0.328168619569,
+                            8.786541265977,
+                            7.983217640606999
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.085082,
+                            0.166499,
+                            0.419285
+                        ],
+                        "cartesian_coordinates": [
+                            0.7723504879580001,
+                            2.9573337873590004,
+                            4.028847930105
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.421075,
+                            0.674311,
+                            0.912483
+                        ],
+                        "cartesian_coordinates": [
+                            3.8224005279249997,
+                            8.103909393349,
+                            8.767915011999
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.068695,
+                            0.332695,
+                            0.082118
+                        ],
+                        "cartesian_coordinates": [
+                            0.623593906705,
+                            2.183617428568,
+                            0.789059790654
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.428027,
+                            0.866434,
+                            0.571085
+                        ],
+                        "cartesian_coordinates": [
+                            3.885508830413,
+                            7.447952902969,
+                            5.487471815505
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.806865,
+                            0.72947,
+                            0.57981
+                        ],
+                        "cartesian_coordinates": [
+                            7.324493740935001,
+                            6.75868697063,
+                            5.571309057930001
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.464273,
+                            0.122769,
+                            0.181431
+                        ],
+                        "cartesian_coordinates": [
+                            4.214539833287,
+                            1.5508716908850002,
+                            1.743343808643
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.727519,
+                            0.062992,
+                            0.184483
+                        ],
+                        "cartesian_coordinates": [
+                            6.604213049161,
+                            1.2463192575550002,
+                            1.772670027999
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.057201,
+                            0.627324,
+                            0.659518
+                        ],
+                        "cartesian_coordinates": [
+                            0.5192546045190001,
+                            6.6055339988220005,
+                            6.337211512854
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.564767,
+                            0.384982,
+                            0.844051
+                        ],
+                        "cartesian_coordinates": [
+                            5.126796126473001,
+                            6.219623594743,
+                            8.110361983503
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.221645,
+                            0.840681,
+                            0.362553
+                        ],
+                        "cartesian_coordinates": [
+                            2.012031027755,
+                            6.282167485239,
+                            3.483718481709
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.963849,
+                            0.877293,
+                            0.330819
+                        ],
+                        "cartesian_coordinates": [
+                            8.749550380431,
+                            6.321460765976999,
+                            3.1787911406069997
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.301286,
+                            0.303129,
+                            0.88374
+                        ],
+                        "cartesian_coordinates": [
+                            2.734989646634,
+                            5.977667561994,
+                            8.491727750219999
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.578925,
+                            0.674311,
+                            0.412483
+                        ],
+                        "cartesian_coordinates": [
+                            5.255318472075,
+                            5.638828893349,
+                            3.963488511999
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "fractional_coordinates": [
+                            0.914918,
+                            0.166499,
+                            0.919285
+                        ],
+                        "cartesian_coordinates": [
+                            8.305368512042,
+                            5.4224142873589996,
+                            8.833274430105
+                        ]
+                    }
+                ]
+            },
+            "source": "Materials Project"
+        },
+        "4_physical_properties": {
+            "title": "Physical Properties",
+            "density_g_per_cm3": 2.9971684793161075,
+            "volume_angstrom3": 466.35857608983395,
+            "number_of_atomic_sites": 44,
+            "description": "These are the physical properties available in the selected Materials Project record."
+        },
+        "5_electronic_properties": {
+            "title": "Electronic Properties",
+            "band_gap_eV": 0.7257,
+            "is_metal": null,
+            "description": "Electronic properties are reported from the selected Materials Project record. A missing value means that the property was not available."
+        },
+        "6_stability": {
+            "title": "Stability",
+            "is_stable": false,
+            "formation_energy_per_atom_eV": -2.423079560929989,
+            "energy_above_hull_eV_per_atom": 0.09528249879259842,
+            "description": "Stability information is based on calculated stability fields in the Materials Project record. It should not be interpreted as a direct measurement of long-term battery-cycle stability."
+        },
+        "7_battery_applications": {
+            "title": "Battery Applications",
+            "status": "Battery insertion information retrieved successfully.",
+            "total_matching_records": 1,
+            "records": [
+                {
+                    "battery_formula": "Li3-5Mn3(BO3)4",
+                    "working_ion": "Li",
+                    "average_voltage_V": 3.298350808333329,
+                    "gravimetric_capacity_mAh_g": 123.2943773170751,
+                    "volumetric_capacity_mAh_cm3": 373.41300686438694,
+                    "gravimetric_energy_Wh_kg": 406.6681090867292,
+                    "volumetric_energy_Wh_L": 1231.6470930333298,
+                    "charge_formula": "Li3Mn3(BO3)4",
+                    "discharge_formula": "Li5Mn3(BO3)4",
+                    "number_of_steps": 2,
+                    "selected_material_role": "charge",
+                    "voltage_steps": [
+                        {
+                            "charge_formula": "Li3Mn3(BO3)4",
+                            "discharge_formula": "Li4Mn3(BO3)4",
+                            "average_voltage_V": 3.581443828333339,
+                            "gravimetric_capacity_mAh_g": 62.64737145131198,
+                            "volumetric_capacity_mAh_cm3": 188.1584433437772,
+                            "gravimetric_energy_Wh_kg": 224.3680418456075,
+                            "volumetric_energy_Wh_L": 673.8788956623791,
+                            "volume_change": 0.014364892136129001
+                        },
+                        {
+                            "charge_formula": "Li4Mn3(BO3)4",
+                            "discharge_formula": "Li5Mn3(BO3)4",
+                            "average_voltage_V": 3.015257788333319,
+                            "gravimetric_capacity_mAh_g": 61.64718865853755,
+                            "volumetric_capacity_mAh_cm3": 186.70650343219347,
+                            "gravimetric_energy_Wh_kg": 185.88216573150885,
+                            "volumetric_energy_Wh_L": 562.968238606403,
+                            "volume_change": 0.007776589914614
+                        }
+                    ]
+                }
+            ],
+            "note": "These values come from the retrieved battery insertion record. They are not machine-learning predictions."
+        },
+        "8_working_mechanism": {
+            "title": "Working Mechanism",
+            "status": "insufficient_evidence",
+            "description": [],
+            "message": "No qualifying mechanism statements were found."
+        },
+        "9_advantages": {
+            "title": "Advantages",
+            "status": "insufficient_evidence",
+            "description": [],
+            "message": "No advantage statements were found in the available abstracts."
+        },
+        "10_limitations": {
+            "title": "Limitations",
+            "status": "insufficient_evidence",
+            "description": [],
+            "message": "No limitation statements were found in the available abstracts."
+        },
+        "11_research_references": {
+            "title": "Research References",
+            "status": "No exact-formula references were found by title/abstract screening.",
+            "papers": [],
+            "related_background": [
+                {
+                    "title": "Spectroscopic properties of HoFe3(BO3)4, NdFe3(BO3)4 and Ho0.75Nd0.25Fe3(BO3)4 single crystals",
+                    "authors": [
+                        "A.L. Sukhachev",
+                        "A.V. Malakhovskii",
+                        "A.S. Aleksandrovsky",
+                        "I.A. Gudim",
+                        "V.L. Temerov"
+                    ],
+                    "year": 2018,
+                    "journal": "Optical Materials",
+                    "publisher": "Elsevier BV",
+                    "type": "journal-article",
+                    "doi": "10.1016/j.optmat.2018.05.078",
+                    "url": "https://doi.org/10.1016/j.optmat.2018.05.078",
+                    "abstract": null,
+                    "abstract_available": false,
+                    "source": "Crossref",
+                    "material_formula": "Li3-5Mn3(BO3)4",
+                    "formula_found_in_title": false,
+                    "formula_found_in_abstract": false,
+                    "scientific_claims_verified": false,
+                    "relevance": "Exact material relevance not confirmed"
+                },
+                {
+                    "title": "Crystal growth of solid solutions based on the YAl3(BO3)4, NdAl3(BO3)4 and GdAl3(BO3)4 borates",
+                    "authors": [
+                        "N.I Leonyuk",
+                        "E.V Koporulina",
+                        "S.N Barilo",
+                        "L.A Kurnevich",
+                        "G.L Bychkov"
+                    ],
+                    "year": 1998,
+                    "journal": "Journal of Crystal Growth",
+                    "publisher": "Elsevier BV",
+                    "type": "journal-article",
+                    "doi": "10.1016/s0022-0248(98)00108-0",
+                    "url": "https://doi.org/10.1016/s0022-0248(98)00108-0",
+                    "abstract": null,
+                    "abstract_available": false,
+                    "source": "Crossref",
+                    "material_formula": "Li3-5Mn3(BO3)4",
+                    "formula_found_in_title": false,
+                    "formula_found_in_abstract": false,
+                    "scientific_claims_verified": false,
+                    "relevance": "Exact material relevance not confirmed"
+                },
+                {
+                    "title": "Specific heat of YFe3(BO3)4, Y0.5Gd0.5Fe3(BO3)4, and GdFe3(BO3)4",
+                    "authors": [
+                        "A. N. Vasiliev",
+                        "E. A. Popova",
+                        "L. N. Bezmaternykh",
+                        "V. L. Temerov",
+                        "Z. Hiroi"
+                    ],
+                    "year": 2006,
+                    "journal": "Journal of Experimental and Theoretical Physics",
+                    "publisher": "Pleiades Publishing Ltd",
+                    "type": "journal-article",
+                    "doi": "10.1134/s1063776106020075",
+                    "url": "https://doi.org/10.1134/s1063776106020075",
+                    "abstract": null,
+                    "abstract_available": false,
+                    "source": "Crossref",
+                    "material_formula": "Li3-5Mn3(BO3)4",
+                    "formula_found_in_title": false,
+                    "formula_found_in_abstract": false,
+                    "scientific_claims_verified": false,
+                    "relevance": "Exact material relevance not confirmed"
+                },
+                {
+                    "title": "Comparison Between Electride Characteristics of Li3@B40 and Li3@C60",
+                    "authors": [
+                        "Prasenjit Das",
+                        "Pratim Kumar Chattaraj"
+                    ],
+                    "year": 2021,
+                    "journal": "Frontiers in Chemistry",
+                    "publisher": "Frontiers Media SA",
+                    "type": "journal-article",
+                    "doi": "10.3389/fchem.2021.638581",
+                    "url": "https://doi.org/10.3389/fchem.2021.638581",
+                    "abstract": "Density functional theory (DFT) based computation is performed on the endohedrally encapsulated Li 3 cluster inside the B 40 and C 60 cages namely, Li 3 @B 40 and Li 3 @C 60 . For both these systems, the Li-Li bond lengths are shorter than that in the free Li 3 cluster. Due to confinement, the Li-Li vibrational frequencies increase in both the systems as compared to that in the free Li 3 cluster. Thermodynamically, the formation of these two systems is spontaneous in nature as predicted by the negative values of Gibbs’ free energy changes (Δ G ). For both the systems one non-nuclear attractor (NNA) is present on the middle of the Li 3 cluster which is predicted and confirmed by the electron density analysis. The NNA population and the percentage localization of electron density at the NNA of the Li 3 @C 60 system are higher than that in the Li 3 @B 40 system. At the NNA the values of the Laplacian of electron density are negative and an electron localization function basin is present at the center of the Li 3 cluster for localized electrons. Both systems show large values of nonlinear optical properties (NLO). Both the Li 3 encapsulated endohedral systems behave as electrides. Electrides have low work function and hence have a great potential in catalytic activity toward the activation of small molecules (such as CO 2 , N 2 ). Even some electrides have greater catalytic activity than some well-studied metal-loaded catalysts. As the systems under study behave as electrides, they have the power to show catalytic activity and can be used in catalyzing the activation of small molecules.",
+                    "abstract_available": true,
+                    "source": "Crossref",
+                    "material_formula": "Li3-5Mn3(BO3)4",
+                    "formula_found_in_title": false,
+                    "formula_found_in_abstract": false,
+                    "scientific_claims_verified": false,
+                    "relevance": "Exact material relevance not confirmed"
+                },
+                {
+                    "title": "Comparison of Li+ conductivity in Li3−xNb1−xMxO4 (M=W, Mo) with that in Li3−2xNixNbO4",
+                    "authors": [
+                        "Youhao Liao",
+                        "Preetam Singh",
+                        "Weishan Li",
+                        "John B. Goodenough"
+                    ],
+                    "year": 2013,
+                    "journal": "Materials Research Bulletin",
+                    "publisher": "Elsevier BV",
+                    "type": "journal-article",
+                    "doi": "10.1016/j.materresbull.2012.11.110",
+                    "url": "https://doi.org/10.1016/j.materresbull.2012.11.110",
+                    "abstract": null,
+                    "abstract_available": false,
+                    "source": "Crossref",
+                    "material_formula": "Li3-5Mn3(BO3)4",
+                    "formula_found_in_title": false,
+                    "formula_found_in_abstract": false,
+                    "scientific_claims_verified": false,
+                    "relevance": "Exact material relevance not confirmed"
+                },
+                {
+                    "title": "New method for calculating bound states: The A1 states of Li3 on the spin-aligned Li3(1A′4) potential energy surface",
+                    "authors": [
+                        "Xuan Li",
+                        "Daniel A. Brue",
+                        "Gregory A. Parker"
+                    ],
+                    "year": 2007,
+                    "journal": "The Journal of Chemical Physics",
+                    "publisher": "AIP Publishing",
+                    "type": "journal-article",
+                    "doi": "10.1063/1.2753157",
+                    "url": "https://doi.org/10.1063/1.2753157",
+                    "abstract": "In this paper, we present a calculation for the bound states of A1 symmetry on the spin-aligned Li3(1A′4) potential energy surface. We apply a mixture of discrete variable representation and distributed approximating functional methods to discretize the Hamiltonian. We also introduce a new method that significantly reduces the computational effort needed to determine the lowest eigenvalues and eigenvectors (bound state energies and wave functions of the full Hamiltonian). In our study, we have found the lowest 150 energy bound states converged to less than 0.005% error, and most of the excited energy bound states converged to less than 2.0% error. Furthermore, we have estimated the total number of the A1 bound states of Li3 on the spin-aligned Li3(1A′4) potential surface to be 601.",
+                    "abstract_available": true,
+                    "source": "Crossref",
+                    "material_formula": "Li3-5Mn3(BO3)4",
+                    "formula_found_in_title": false,
+                    "formula_found_in_abstract": false,
+                    "scientific_claims_verified": false,
+                    "relevance": "Exact material relevance not confirmed"
+                },
+                {
+                    "title": "Comparison of the Absorption Spectra of Nd3+ Ions in the NdFe3(BO3)4, Nd0.5Gd0.5Fe3(BO3)4, and Ho0.75Nd0.25Fe3(BO3)4 Crystals",
+                    "authors": [
+                        "A. L. Sukhachev",
+                        "A. V. Malakhovskii",
+                        "C. S. Nelson",
+                        "I. A. Gudim",
+                        "V. L. Temerov"
+                    ],
+                    "year": 2021,
+                    "journal": "Physics of the Solid State",
+                    "publisher": "Pleiades Publishing Ltd",
+                    "type": "journal-article",
+                    "doi": "10.1134/s1063783421010200",
+                    "url": "https://doi.org/10.1134/s1063783421010200",
+                    "abstract": null,
+                    "abstract_available": false,
+                    "source": "Crossref",
+                    "material_formula": "Li3-5Mn3(BO3)4",
+                    "formula_found_in_title": false,
+                    "formula_found_in_abstract": false,
+                    "scientific_claims_verified": false,
+                    "relevance": "Exact material relevance not confirmed"
+                },
+                {
+                    "title": "Erratum to: Comparison of the Absorption Spectra of Nd3+ Ions in the NdFe3(BO3)4, Nd0.5Gd0.5Fe3(BO3)4, and Ho0.75Nd0.25Fe3(BO3)4 Crystals",
+                    "authors": [
+                        "A. L. Sukhachev",
+                        "A. V. Malakhovskii",
+                        "C. S. Nelson",
+                        "I. A. Gudim",
+                        "V. L. Temerov"
+                    ],
+                    "year": 2021,
+                    "journal": "Physics of the Solid State",
+                    "publisher": "Pleiades Publishing Ltd",
+                    "type": "journal-article",
+                    "doi": "10.1134/s1063783421030203",
+                    "url": "https://doi.org/10.1134/s1063783421030203",
+                    "abstract": null,
+                    "abstract_available": false,
+                    "source": "Crossref",
+                    "material_formula": "Li3-5Mn3(BO3)4",
+                    "formula_found_in_title": false,
+                    "formula_found_in_abstract": false,
+                    "scientific_claims_verified": false,
+                    "relevance": "Exact material relevance not confirmed"
+                },
+                {
+                    "title": "YAl3(BO3)4- and GdAl3(BO3)4-based glass-ceramic composites",
+                    "authors": [
+                        "D. A. Naprasnikov",
+                        "V. V. Maltsev",
+                        "N. I. Leonyuk"
+                    ],
+                    "year": 2015,
+                    "journal": "Inorganic Materials",
+                    "publisher": "Pleiades Publishing Ltd",
+                    "type": "journal-article",
+                    "doi": "10.1134/s0020168515120092",
+                    "url": "https://doi.org/10.1134/s0020168515120092",
+                    "abstract": null,
+                    "abstract_available": false,
+                    "source": "Crossref",
+                    "material_formula": "Li3-5Mn3(BO3)4",
+                    "formula_found_in_title": false,
+                    "formula_found_in_abstract": false,
+                    "scientific_claims_verified": false,
+                    "relevance": "Exact material relevance not confirmed"
+                },
+                {
+                    "title": "Flux growth and luminescence of Ho:YAl3(BO3)4 and PrAl3(BO3)4 crystals",
+                    "authors": [
+                        "E.V. Koporulina",
+                        "N.I. Leonyuk",
+                        "D. Hansen",
+                        "K.L. Bray"
+                    ],
+                    "year": 1998,
+                    "journal": "Journal of Crystal Growth",
+                    "publisher": "Elsevier BV",
+                    "type": "journal-article",
+                    "doi": "10.1016/s0022-0248(98)00347-9",
+                    "url": "https://doi.org/10.1016/s0022-0248(98)00347-9",
+                    "abstract": null,
+                    "abstract_available": false,
+                    "source": "Crossref",
+                    "material_formula": "Li3-5Mn3(BO3)4",
+                    "formula_found_in_title": false,
+                    "formula_found_in_abstract": false,
+                    "scientific_claims_verified": false,
+                    "relevance": "Exact material relevance not confirmed"
+                },
+                {
+                    "title": "Temperature dependent luminescence Cr3+-doped GdAl3(BO3)4 and YAl3(BO3)4",
+                    "authors": [
+                        "Beata Malysa",
+                        "Andries Meijerink",
+                        "Thomas Jüstel"
+                    ],
+                    "year": 2016,
+                    "journal": "Journal of Luminescence",
+                    "publisher": "Elsevier BV",
+                    "type": "journal-article",
+                    "doi": "10.1016/j.jlumin.2015.10.042",
+                    "url": "https://doi.org/10.1016/j.jlumin.2015.10.042",
+                    "abstract": null,
+                    "abstract_available": false,
+                    "source": "Crossref",
+                    "material_formula": "Li3-5Mn3(BO3)4",
+                    "formula_found_in_title": false,
+                    "formula_found_in_abstract": false,
+                    "scientific_claims_verified": false,
+                    "relevance": "Exact material relevance not confirmed"
+                },
+                {
+                    "title": "Liquid-phase epitaxy of NdAl3(BO3)4 and Yb-doped YAl3(BO3)4",
+                    "authors": [
+                        "E. A. Volkova",
+                        "N. I. Leonyuk",
+                        "A. V. Mokhov"
+                    ],
+                    "year": 2007,
+                    "journal": "Inorganic Materials",
+                    "publisher": "Pleiades Publishing Ltd",
+                    "type": "journal-article",
+                    "doi": "10.1134/s0020168507090130",
+                    "url": "https://doi.org/10.1134/s0020168507090130",
+                    "abstract": null,
+                    "abstract_available": false,
+                    "source": "Crossref",
+                    "material_formula": "Li3-5Mn3(BO3)4",
+                    "formula_found_in_title": false,
+                    "formula_found_in_abstract": false,
+                    "scientific_claims_verified": false,
+                    "relevance": "Exact material relevance not confirmed"
+                }
+            ],
+            "note": "Crossref search metadata does not establish that a paper supports a scientific claim about this material."
+        }
+    },
+    "data_sources": {
+        "material_properties": "Materials Project",
+        "battery_information": "Materials Project Insertion Electrodes",
+        "literature": null
+    }
+}
