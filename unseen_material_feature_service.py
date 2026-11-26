@@ -687,7 +687,7 @@ if os.path.exists(PIPELINE_PATH):
 
 print("==========================================\n")
 
-bundle = joblib.load(PIPELINE_PATH)
+
 # =====================================================
 # 9. LOAD SAVED XGBOOST PIPELINE
 # =====================================================
@@ -812,13 +812,16 @@ def predict_unseen_material(
         electrode_formula,
         selected_material_id
     )
+
     print("\n" + "=" * 70)
     print("MATERIAL DEBUG")
     print("Formula:", electrode_formula)
     print("Material ID:", selected_material_id)
     print("\nRAW 15 FEATURES:")
+
     for feature, value in features.items():
         print(f"{feature}: {value}")
+
     print("=" * 70)
 
     # Validate extracted features
@@ -833,41 +836,64 @@ def predict_unseen_material(
         columns=feature_columns
     )
 
-    # Apply the fitted training preprocessor
+    # Apply fitted training preprocessor
     transformed_features = preprocessor.transform(
         input_df
     )
 
     # Predict voltage
-    prediction = model.predict(
-        transformed_features
-    )
+    prediction = model.predict(transformed_features)
 
     predicted_voltage = float(prediction[0])
 
     if not math.isfinite(predicted_voltage):
         raise ValueError(
-            "Model returned an invalid voltage prediction."
+            "Model returned a non-finite voltage prediction."
         )
 
+    # Extract electrode formula details
+    (
+        working_ion,
+        concentration_min,
+        concentration_max,
+        host_formula
+    ) = parse_electrode_formula(electrode_formula)
+
+    # Extract crystal symmetry
+    crystal_system, space_group_number = (
+        get_symmetry_details(host_doc)
+    )
+
+    material_id = str(
+        get_doc_value(host_doc, "material_id")
+    )
+
+    # Final API response
     return {
+        "status": "success",
         "success": True,
+
         "electrode_formula": electrode_formula,
-        "host_formula": parse_electrode_formula(
-            electrode_formula
-        )[3],
-        "material_id": str(
-            get_doc_value(host_doc, "material_id")
-        ),
+        "working_ion": working_ion,
+
+        "selected_material_id": material_id,
+        "material_id": material_id,
+
+        "host_formula": host_formula,
         "host_formula_pretty": get_doc_value(
             host_doc, "formula_pretty"
         ),
+
+        "crystal_system": crystal_system,
+        "space_group_number": space_group_number,
+
         "predicted_voltage": predicted_voltage,
+
         "features_used": features,
-        "warnings": warnings
+        "warnings": warnings,
+
+        "unit": "V"
     }
-
-
 # =====================================================
 # 12. FEATURE EXTRACTION VALIDATION
 # =====================================================

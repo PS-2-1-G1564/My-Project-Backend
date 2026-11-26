@@ -428,6 +428,7 @@ def explain_unseen_material(
         "electrode_formula": electrode_formula,
         "material_id": str(selected_material_id),
         "prediction": round(prediction, 6),
+        
         "base_value": round(base_value, 6),
         "shap_sum": round(float(np.sum(grouped_values)), 6),
         "feature_count": len(FEATURES),
